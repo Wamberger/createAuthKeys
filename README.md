@@ -6,5 +6,5 @@ The program start with function <generateKey> in the file 'generateKeys.py'.
 
 The program receive the orders written in a string and according to the mode creates inserts for users, where the data is inserted into three DB tables.
 
-The code is complex and one of old ones. Look also repository 'createButtons' where the program is similar but with optimizing code.
+IMPORTANT: The code is complex and one of old ones. Look also repository 'createButtons' where the program is similar but with optimizing code.
 
